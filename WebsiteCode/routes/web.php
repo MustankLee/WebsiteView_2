@@ -23,3 +23,5 @@ Route::get('/about', function() {
 });
 
 Route::get('/', [ProductController::class, 'index']);
+
+// Route::
